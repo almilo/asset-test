@@ -1,0 +1,1 @@
+require('./partial.tpl.html');
